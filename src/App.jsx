@@ -9,7 +9,9 @@ const App = () => {
     <div>
         <Navbar setCategory={setCategory}/>
         <NewsBoard category={category}/>
+        
     </div>
+    //news
   )
 }
 
